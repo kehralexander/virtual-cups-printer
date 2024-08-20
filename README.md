@@ -10,7 +10,7 @@ to read pdf's.
 
 See `docker-compose.yml` for example. Names and targets can be parameterized via variables
 
-The http/print server will listen on port `631`. The default username/password is print/print, and can be changed in the `Dockerfile`
+The http/print server will listen on port `631`.
 
 ## Avahi (Optional, but recommended)
 
